@@ -10,4 +10,4 @@ I've added a little Spinner class to make it look like there is some more seriou
 
 ![Spinner](Images/Screenshot NumericalLeapfrog Spinner.png)
 
-Some of the code is written in a functional way to keep it nice and concise and to the point.
+Some of the code is written in a functional way to keep it concise and to the point.
